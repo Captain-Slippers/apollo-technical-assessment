@@ -1,0 +1,30 @@
+.Main {
+    margin: 0 10% 0 10%;
+}
+
+.video video{
+    max-width: 800px;
+    margin: 2%;
+}
+
+
+.video-details{
+    display: grid;
+    grid-template-columns: 90% 10%;
+}
+
+
+.video-comments {
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.video-comments p{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(187, 187, 187);
+    margin: 5%;
+    padding: 2%
+}

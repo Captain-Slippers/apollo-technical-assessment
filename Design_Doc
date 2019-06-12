@@ -1,0 +1,27 @@
+Design Doc
+
+Checklist
+    Pull Content []
+    Mock up content []
+    Final CSS changes []
+
+Components
+    Watching a video []
+    Profile [X]
+    List of videos []
+
+Watching a video Component
+    Show video [X]
+    List desctription [X]
+    List of comments [X]
+    Uploader Infomation [X]
+    Resume at time []
+  
+Profile
+    Show details [X]
+
+List of videos
+    Total list of all videos[]
+    Subscriber videos []
+    Percentage of how much has been watched []
+    Watched displayed []
